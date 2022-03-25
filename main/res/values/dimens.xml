@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="amMT">20dp</dimen>
+    <dimen name="amMB">20dp</dimen>
+    <dimen name="amDH">10sp</dimen>
+    <dimen name="amPT">10dp</dimen>
+    <dimen name="saMT">150dp</dimen>
+    <dimen name="saTS">40sp</dimen>
+    <dimen name="saP">10dp</dimen>
+</resources>

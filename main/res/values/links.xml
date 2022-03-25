@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="teamSpirit" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team7119388</item>
+    <item name="psgLgd" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team15</item>
+    <item name="teamSecret" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team1838315</item>
+    <item name="iNVICTUSGAMING" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team5</item>
+    <item name="virtusPro" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team1883502</item>
+    <item name="viciGaming" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team726228</item>
+    <item name="oG" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team726228</item>
+    <item name="t1" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team8214850</item>
+    <item name="fnatic" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team350190</item>
+    <item name="quincyCrew" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team7390454</item>
+    <item name="alliance" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team111474</item>
+    <item name="evilGeniuses" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team39</item>
+    <item name="teamUndying" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team8260983</item>
+    <item name="teamAster" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team6209166</item>
+    <item name="beastcoast" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team8254400</item>
+    <item name="elephant" type="string">https://stats.spectral.gg/lrg2/?league=ti10_me&amp;mod=teams-profiles-team8204512</item>
+</resources>
